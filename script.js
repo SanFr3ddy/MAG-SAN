@@ -4,49 +4,49 @@ const projects = [
     id: 1,
     title: "Nuestra primera foto",
     year: "❤️",
-    image: "../imagenes/IMG-20241203-WA0014.jpg" // Ruta local
+    image: "IMG-20241203-WA0014.jpg" // Ruta local
   },
   {
     id: 2,
     title: "Vaqueritos",
     year: "🤠",
-    image: "../imagenes/NEGRO.jpg" // Ruta local
+    image: "NEGRO.jpg" // Ruta local
   },
   {
     id: 3,
     title: "Noche dorada",
     year: "🎞️",
-    image: "../imagenes/72b74492-6818-44e4-8378-1b3ef5848384.jpg" // Ruta local
+    image: "72b74492-6818-44e4-8378-1b3ef5848384.jpg" // Ruta local
   },
   {
     id: 4,
     title: "No face",
     year: "😘",
-    image: "../imagenes/WhatsApp Image 2025-01-25 at 23.19.28.jpeg" // Ruta local
+    image: "WhatsApp Image 2025-01-25 at 23.19.28.jpeg" // Ruta local
   },
   {
     id: 5,
     title: "azulitos",
     year: "🐬",
-    image: "../imagenes/IMG_2908.png" // Ruta local
+    image: "IMG_2908.png" // Ruta local
   },
   {
     id: 6,
     title: "Twins",
     year: "🍊☁️",
-    image: "../imagenes/twins.png" // Ruta local
+    image: "twins.png" // Ruta local
   },
   {
     id: 6,
     title: "salidas",
     year: "✨",
-    image: "../imagenes/IMG_3663.JPG" // Ruta local
+    image: "IMG_3663.JPG" // Ruta local
   },
   {
     id: 6,
     title: "Flow",
     year: "❤️‍🔥",
-    image: "../imagenes/IMG_3531.JPG" // Ruta local
+    image: "IMG_3531.JPG" // Ruta local
   },
 ];
 
